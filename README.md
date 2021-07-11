@@ -11,7 +11,7 @@
 - 📚 My next learning: Data Structure and Algorithms
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about anything, I am happy to chat, help and learn!
-- 🌟 Fun fact: I'm a multi-sport athlete --> tennis 🎾, badminton 🏸, ping pong 🏓 and basketball 🏀
+- 🌟 Fun fact: I'm a multi-sport athlete --> tennis 🎾, badminton 🏸 and ping pong 🏓.
 
 <br />
 <br />
@@ -31,32 +31,32 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/julhoang/Notella'>Notella</a></td>
+      <td><a href='https://github.com/julhoang/Notella'>🖊️ Notella</a></td>
       <td>HTML, CSS, JavaScript</td>
       <td>A Chrome Extension for organising website highlights.</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/julhoang/yearbook_site'>Yearbook Site</a></td>
+      <td><a href='https://github.com/julhoang/yearbook_site'>📸 Yearbook Site</a></td>
       <td>HTML, CSS, JavaScript, PHP</td>
       <td>Mega websites to upload (for students) and manage (admin-only) Yearbook Photo gallery</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/julhoang/ZombieGame">Zombie in Da City</a></td>
+      <td><a href="https://github.com/julhoang/ZombieGame">🧟🏻 Zombie in Da City</a></td>
       <td>HTML, CSS, Javascript</td>
       <td>Java Applet 2D side-scrolling game. My first attempt with OOP. 😅</td>
     </tr>
     <tr>
-      <td><a href='https://julhoang.github.io/exercise8/'>Tic Tac Toe</a></td>
+      <td><a href='https://julhoang.github.io/exercise8/'>🏁 Tic Tac Toe</a></td>
       <td>HTML, CSS, Javascript</td>
       <td>Player vs slightly "smart" Computer - my first attempt with algorithm 😃. Give it a try!</td>
     </tr>
     <tr>
-      <td><a href="https://julhoang.github.io/exercise9/">Pong Game</a></td>
+      <td><a href="https://julhoang.github.io/exercise9/">🏓 Pong Game</a></td>
       <td>HTML, CSS, Javascript</td>
       <td>My first web game with a simple modification from the classic. Give it a try!</td>
     </tr>
     <tr>
-      <td><a href="https://julhoang.github.io/exercise10/">Horse Game</a></td>
+      <td><a href="https://julhoang.github.io/exercise10/">🏇 Horse Game</a></td>
       <td>HTML, CSS, Javascript</td>
       <td>Grid Base Web Game with levels. Give it a try!</td>
     </tr>
