@@ -6,12 +6,12 @@
 
 
 - 🏫 Soon-to-be First Year Software Engineering student at <a href="https://uvic.ca/">@UVIC</a>
-- 🔭 My personal project <a href="https://github.com/julhoang/Notella">Notella</a> keeps me busy these days
+- 🔭 My personal project <a href="https://github.com/julhoang/Notella">**Notella**</a> keeps me busy these days
 - 🌱 Receiving daily doses of **Java, JavaScript and C**
 - 📚 My next learning: Data Structure and Algorithms
-- 🤔 I’m looking for help with Data Structures and Algorithms
-- 💬 Ask me about anything, I am happy to chat, help and learn!
-- 🌟 Fun fact: I'm a multi-sport athlete --> tennis 🎾, badminton 🏸 and ping pong 🏓.
+- 😂 Favourite Quote: "When I wrote this code, only me and God knew how it works. Now only God knows..."
+- 🌟 Fun fact: I'm an avid, multi-sport athlete --> tennis 🎾, badminton 🏸 and ping pong 🏓.
+- 💬 Please reach out and say "Hola!", I am happy to chat, help and learn!
 
 <br />
 <br />
