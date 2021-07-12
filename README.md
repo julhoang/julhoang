@@ -2,7 +2,11 @@
 <a href="https://www.facebook.com/juliahoangg/" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's Facebook" width="25px" src="https://image.flaticon.com/icons/png/512/145/145802.png"/></a><a href="https://www.instagram.com/julia_hoang" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's Insta" width="25px" src="https://image000.flaticon.com/png/512/174/174855.png"/></a><a href="https://www.linkedin.com/in/juliahoang/" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's LinkedIn" width="25px" src="https://image000.flaticon.com/png/512/2111/2111499.png"/></a></h1></div>
 
 
-<img src='https://github.com/julhoang/julhoang/blob/main/memoji.gif' align='right'>
+
+<img src='https://github.com/julhoang/julhoang/blob/main/memoji-gif-2.gif' 
+     width="300" 
+     height="300"
+     align='right'>
 
 
 - 🏫 Soon-to-be First Year Software Engineering student at <a href="https://uvic.ca/">@UVIC</a>
@@ -65,8 +69,15 @@
 
 <br />
 <br />
+<!-- 
+<details>
+  <summary>Other Goodies</summary>
+  ![Profile views](https://gpvc.arturio.dev/julhoang)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julhoang&layout=compact)
+  
+ </details> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julhoang&layout=compact)
 
 
 
