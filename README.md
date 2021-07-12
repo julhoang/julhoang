@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/julhoang/ZombieGame">🧟🏻 Zombie in Da City</a></td>
-      <td>HTML, CSS, Javascript</td>
+      <td>Java</td>
       <td>Java Applet 2D side-scrolling game. My first attempt with OOP. 😅</td>
     </tr>
     <tr>
