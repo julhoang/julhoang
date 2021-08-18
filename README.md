@@ -1,5 +1,5 @@
-<div align='center'><h1>Hey there :wave:,  I'm Julia Hoang!
-<a href="https://www.facebook.com/juliahoangg/" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's Facebook" width="25px" src="https://image.flaticon.com/icons/png/512/145/145802.png"/></a><a href="https://www.instagram.com/julia_hoang" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's Insta" width="25px" src="https://image000.flaticon.com/png/512/174/174855.png"/></a><a href="https://www.linkedin.com/in/juliahoang/" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's LinkedIn" width="25px" src="https://image000.flaticon.com/png/512/2111/2111499.png"/></a></h1></div>
+<div align='center'><h1>Hello world :wave:,  I'm Julia Hoang!
+<a href="https://www.facebook.com/juliahoangg/" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's Facebook" width="25px" src="https://github.com/julhoang/julhoang/blob/main/social_media_icons/facebook_icon_130940.png"/></a><a href="https://www.instagram.com/julia_hoang" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's Insta" width="25px" src="https://github.com/julhoang/julhoang/blob/main/social_media_icons/Instagram_icon.png"/></a><a href="https://www.linkedin.com/in/juliahoang/" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's LinkedIn" width="25px" src="https://github.com/julhoang/julhoang/blob/main/social_media_icons/linkedin%20icon.png"/></a></h1></div>
 
 
 
@@ -9,13 +9,12 @@
      align='right'>
 
 
-- 🏫 Soon-to-be First Year Software Engineering student at <a href="https://uvic.ca/">@UVIC</a>
+- 🏫 First Year Software Engineering student at <a href="https://uvic.ca/">@UVIC</a>
 - 🔭 My personal project <a href="https://github.com/julhoang/Notella">**Notella**</a> keeps me busy these days
 - 🌱 Receiving daily doses of **Java, JavaScript and C**
 - 📚 My next learning: Data Structure and Algorithms
 - 😂 Favourite Quote: "When I wrote this code, only me and God knew how it works. Now only God knows..."
-- 🌟 Fun fact: I'm an avid, multi-sport athlete --> tennis 🎾, badminton 🏸 and ping pong 🏓.
-- 💬 Please reach out and say "Hola!", I am happy to chat, help and learn!
+- 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
 <br />
 <br />
