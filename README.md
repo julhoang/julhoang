@@ -13,7 +13,6 @@
 - 🔭 My personal project <a href="https://github.com/julhoang/Notella">**Notella**</a> keeps me busy these days
 - 🌱 Receiving daily doses of **Java, JavaScript and C**
 - 📚 My next learning: Data Structure and Algorithms
-- 😂 Favourite Quote: "When I wrote this code, only me and God knew how it works. Now only God knows..."
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
 <br />
