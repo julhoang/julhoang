@@ -9,9 +9,8 @@
      align='right'>
 
 
-- 🏫 First Year Software Engineering student at <a href="https://uvic.ca/">@UVIC</a>
-- 🔭 My personal project <a href="https://github.com/julhoang/Notella">**Notella**</a> keeps me busy these days
-- 🌱 Receiving daily doses of **Java, JavaScript and C**
+- 🏫 Second Year Software Engineering student at <a href="https://uvic.ca/">@UVIC</a>
+- 🌱 Receiving daily doses of **Java**
 - 📚 My next learning: Data Structure and Algorithms
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
@@ -32,6 +31,11 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href='https://github.com/julhoang/recap'>📚 Recap</a></td>
+      <td>React</td>
+      <td>React App to Create and Organize Book Summaries</td>
+    </tr>
     <tr>
       <td><a href='https://github.com/julhoang/Notella'>🖊️ Notella</a></td>
       <td>HTML, CSS, JavaScript</td>
