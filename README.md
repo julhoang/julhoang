@@ -10,7 +10,7 @@
 
 
 - 🏫 Second Year Software Engineering student at <a href="https://uvic.ca/">@UVIC</a>
-- 🌱 Receiving daily doses of **ReactJS**
+- 🌱 Receiving daily doses of **Java and ReactJS**
 - 📚 My current learning: Data Structure and Algorithms
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
