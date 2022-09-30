@@ -32,9 +32,14 @@
   </thead>
   <tbody>
      <tr>
+      <td><a href='https://github.com/julhoang/strive'>💪 Strive</a></td>
+      <td>React Native, Tailwind CSS</td>
+      <td>Mobile App to Track Habits [in progress]</td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/julhoang/recap'>📚 Recap</a></td>
-      <td>React</td>
-      <td>React App to Create and Organize Book Summaries</td>
+      <td>React, Firebase, Bootstrap 5</td>
+      <td>React App to Create and Organize Book Summaries [in progress]</td>
     </tr>
     <tr>
       <td><a href='https://github.com/julhoang/Notella'>🖊️ Notella</a></td>
