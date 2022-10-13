@@ -10,7 +10,7 @@
 
 
 - 🏫 Second Year Software Engineering student at <a href="https://uvic.ca/">@UVIC</a>
-- 🌱 Receiving daily doses of **Java and ReactJS**
+- 🌱 Receiving daily doses of **Java, C, Python, and ReactJS**
 - 📚 My current learning: Data Structure and Algorithms
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
@@ -32,8 +32,8 @@
   </thead>
   <tbody>
      <tr>
-      <td><a href='https://github.com/julhoang/strive'>💪 Strive</a></td>
-      <td>React Native, Tailwind CSS</td>
+      <td><a href='https://github.com/julhoang/strive'>🔥 Strive</a></td>
+      <td>React Native</td>
       <td>Mobile App to Track Habits [in progress]</td>
     </tr>
     <tr>
