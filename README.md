@@ -1,5 +1,5 @@
 <div align='center'><h1>Hello world :wave:,  I'm Julia Hoang!
-<a href="https://www.facebook.com/juliahoangg/" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's Facebook" width="25px" src="https://github.com/julhoang/julhoang/blob/main/social_media_icons/facebook_icon_130940.png"/></a><a href="https://www.instagram.com/julia_hoang" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's Insta" width="25px" src="https://github.com/julhoang/julhoang/blob/main/social_media_icons/Instagram_icon.png"/></a><a href="https://www.linkedin.com/in/juliahoang/" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's LinkedIn" width="25px" src="https://github.com/julhoang/julhoang/blob/main/social_media_icons/linkedin%20icon.png"/></a></h1></div>
+</a><a href="https://www.instagram.com/julia_hoang" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's Insta" width="25px" src="https://github.com/julhoang/julhoang/blob/main/social_media_icons/Instagram_icon.png"/></a><a href="https://www.linkedin.com/in/juliahoang/" target="_blank" rel="nofollow"><img align="right" alt="JuliaHoang's LinkedIn" width="25px" src="https://github.com/julhoang/julhoang/blob/main/social_media_icons/linkedin%20icon.png"/></a></h1></div>
 
 
 
@@ -33,12 +33,12 @@
   <tbody>
      <tr>
       <td><a href='https://github.com/julhoang/strive'>🔥 Strive</a></td>
-      <td>React Native</td>
+      <td>React Native, JavaScript</td>
       <td>Mobile App to Track Habits [in progress]</td>
     </tr>
     <tr>
       <td><a href='https://github.com/julhoang/recap/tree/main/recap'>📚 Recap</a></td>
-      <td>React, Firebase, Bootstrap 5</td>
+      <td>React, JavaScript, Firebase, Bootstrap 5</td>
       <td>React App to Create and Organize Book Summaries [in progress]</td>
     </tr>
     <tr>
