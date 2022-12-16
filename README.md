@@ -3,7 +3,7 @@
 
 
 
-<img src='https://github.com/julhoang/julhoang/blob/main/memoji-gif-2.gif' 
+<img src='https://github.com/julhoang/julhoang/blob/main/memoji-gif-1.gif' 
      width="300" 
      height="300"
      align='right'>
