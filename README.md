@@ -9,9 +9,9 @@
      align='right'>
 
 
-- 🏫 Second Year Software Engineering student at <a href="https://uvic.ca/">@UVIC</a>
+- 🎓 Second Year Software Engineering student at <a href="https://www.uvic.ca/ecs/software/">@UVIC</a>
 - 🌱 Receiving daily doses of **Java, C, Python, and ReactJS**
-- 📚 My current learning: Data Structure and Algorithms
+- 📚 My current learning: Data Structure and Algorithms 2
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
 <br />
@@ -21,7 +21,7 @@
 
 <!-- start work project section -->
 
-## My Projects 👇:
+## My Top Projects 👇:
 <table>
   <thead>
     <tr>
@@ -37,7 +37,7 @@
       <td>Mobile App to Track Habits [in progress]</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/julhoang/recap/'>✍️ Recap</a></td>
+      <td><a href='https://julhoang.github.io/recap/'>✍️ Recap</a></td>
       <td>React, JavaScript, Firebase, Bootstrap 5</td>
       <td>React App to Create and Organize Book Summaries [in progress]</td>
     </tr>
@@ -46,6 +46,23 @@
       <td>HTML, CSS, JavaScript</td>
       <td>A Chrome Extension for organising website highlights.</td>
     </tr>
+  </tbody>
+</table>
+
+<br />
+<br />
+
+
+### ... and notable projects from high school:
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><a href='https://github.com/julhoang/yearbook_site'>📸 Yearbook Site</a></td>
       <td>HTML, CSS, JavaScript, PHP</td>
@@ -54,36 +71,27 @@
     <tr>
       <td><a href="https://github.com/julhoang/ZombieGame">🧟🏻 Zombie in Da City</a></td>
       <td>Java</td>
-      <td>Java Applet 2D side-scrolling game. My first attempt with OOP. 😅</td>
-    </tr>
-    <tr>
-      <td><a href='https://julhoang.github.io/exercise8/'>🏁 Tic Tac Toe</a></td>
-      <td>HTML, CSS, Javascript</td>
-      <td>Player vs slightly "smart" Computer - my first attempt with algorithm 😃. Give it a try!</td>
-    </tr>
-    <tr>
-      <td><a href="https://julhoang.github.io/exercise9/">🏓 Pong Game</a></td>
-      <td>HTML, CSS, Javascript</td>
-      <td>My first web game with a simple modification from the classic. Give it a try!</td>
+      <td>Java Applet 2D side-scrolling game. My 1st attempt with OOP.</td>
     </tr>
     <tr>
       <td><a href="https://julhoang.github.io/exercise10/">🏇 Horse Game</a></td>
       <td>HTML, CSS, Javascript</td>
-      <td>Grid Base Web Game with levels. Give it a try!</td>
+      <td>Grid Base Web Game with 5 levels. Give it a try!</td>
+    </tr>  
+    <tr>
+      <td><a href="https://julhoang.github.io/exercise9/">🏓 Pong Game</a></td>
+      <td>HTML, CSS, Javascript</td>
+      <td>A web game with a simple modification from the classic. Give it a try!</td>
+    </tr>
+    <tr>
+      <td><a href='https://julhoang.github.io/exercise8/'>🏁 Tic Tac Toe</a></td>
+      <td>HTML, CSS, Javascript</td>
+      <td>Player vs "not super smart" Computer - my 1st algorithm game so... 😅</td>
     </tr>
   </tbody>
 </table>
-
 <br />
 <br />
-<!-- 
-<details>
-  <summary>Other Goodies</summary>
-  ![Profile views](https://gpvc.arturio.dev/julhoang)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julhoang&layout=compact)
-  
- </details> -->
 
 
 
