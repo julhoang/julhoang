@@ -31,7 +31,12 @@
     </tr>
   </thead>
   <tbody>
-     <tr>
+    <tr>
+      <td><a href='https://github.com/julhoang/Notella'>🖊️ Notella</a></td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>A Chrome Extension for organising website highlights.</td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/julhoang/strive'>🔥 Strive</a></td>
       <td>React Native, JavaScript, Firebase</td>
       <td>Mobile App to Track Habits [in progress]</td>
@@ -40,11 +45,6 @@
       <td><a href='https://julhoang.github.io/recap/'>✍️ Recap</a></td>
       <td>React, JavaScript, Firebase, Bootstrap 5</td>
       <td>React App to Store Personal Book Summaries [in progress]</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/julhoang/Notella'>🖊️ Notella</a></td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>A Chrome Extension for organising website highlights.</td>
     </tr>
   </tbody>
 </table>
