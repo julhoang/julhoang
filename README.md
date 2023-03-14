@@ -9,9 +9,9 @@
      align='right'>
 
 
-- 🎓 Second Year Software Engineering student at <a href="https://www.uvic.ca/ecs/software/">@UVIC</a>
-- 🌱 Receiving daily doses of **Java, C, Python, and ReactJS**
-- 📚 My current learning: Data Structure and Algorithms 2
+- 🎓 I'm a 2nd Year Software Engineering student at <a href="https://www.uvic.ca">@UVIC</a>
+- 💻 I love developing full-stack web apps, currently exploring mobile development.
+- 📚 My current learning: iOS Development (Swift) and Data Structure and Algorithms 2
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
 <br />
@@ -37,23 +37,46 @@
       <td>A Chrome Extension for organising website highlights.</td>
     </tr>
     <tr>
+      <td><a href='https://julhoang.github.io/recap/'>✍️ Recap</a></td>
+      <td>React, JavaScript, Firebase, Bootstrap 5</td>
+      <td>React App to Store Personal Book Summaries</td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/julhoang/strive'>🔥 Strive</a></td>
       <td>React Native, JavaScript, Firebase</td>
       <td>Mobile App to Track Habits [in progress]</td>
-    </tr>
-    <tr>
-      <td><a href='https://julhoang.github.io/recap/'>✍️ Recap</a></td>
-      <td>React, JavaScript, Firebase, Bootstrap 5</td>
-      <td>React App to Store Personal Book Summaries [in progress]</td>
     </tr>
   </tbody>
 </table>
 
 <br />
+
+## Hackathon Team Projects 👇:
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/julhoang/wec-2023-neossat'>🏕️ ExploreBC</a></td>
+      <td>Next.JS, ChakraUI, localStorage</td>
+      <td>Educational web game to teach 7th graders about British Columbia's nature.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/julhoang/code_hack_patient_app'>👩‍⚕️ MedMate</a></td>
+      <td>Next.JS, ChakraUI</td>
+      <td>A web app to support patient's easy access to their health data and records.</td>
+    </tr>
+  </tbody>
+</table>
+
 <br />
 
-
-### ... and notable projects from high school:
+### ... and some of my projects from high school:
 <table>
   <thead>
     <tr>
