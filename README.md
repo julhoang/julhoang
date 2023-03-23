@@ -41,11 +41,6 @@
       <td>React, JavaScript, Firebase, Bootstrap 5</td>
       <td>React App to Store Personal Book Summaries</td>
     </tr>
-    <tr>
-      <td><a href='https://github.com/julhoang/strive'>🔥 Strive</a></td>
-      <td>React Native, JavaScript, Firebase</td>
-      <td>Mobile App to Track Habits [in progress]</td>
-    </tr>
   </tbody>
 </table>
 
