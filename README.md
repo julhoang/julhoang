@@ -10,7 +10,7 @@
 
 
 - 🎓 I'm a 3rd Year Computer Science student at <a href="https://www.uvic.ca">@UVIC</a>
-- 💻 I love developing full-stack web apps and iOS apps and occasional join hackathons 🏃‍♀️💨
+- 💻 I love developing full-stack web apps and iOS apps and occasionally joining hackathons 🏃‍♀️💨
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
 <br />
