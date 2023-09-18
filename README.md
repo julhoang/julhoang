@@ -9,9 +9,8 @@
      align='right'>
 
 
-- 🎓 I'm a 2nd Year Software Engineering student at <a href="https://www.uvic.ca">@UVIC</a>
-- 💻 I love developing full-stack web apps, currently exploring mobile development.
-- 📚 My current learning: iOS Development (Swift) and Data Structure and Algorithms 2
+- 🎓 I'm a 3rd Year Computer Science student at <a href="https://www.uvic.ca">@UVIC</a>
+- 💻 I love developing full-stack web apps and iOS apps and occasional join hackathons 🏃‍♀️💨
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
 <br />
