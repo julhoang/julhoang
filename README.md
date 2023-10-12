@@ -20,7 +20,7 @@
 
 <!-- start work project section -->
 
-## My Top Projects 👇:
+## Personal Projects 👇:
 <table>
   <thead>
     <tr>
@@ -45,7 +45,7 @@
 
 <br />
 
-## Hackathon Team Projects 👇:
+## Team Projects 👇:
 <table>
   <thead>
     <tr>
@@ -58,12 +58,17 @@
     <tr>
       <td><a href='https://github.com/julhoang/wec-2023-neossat'>🏕️ ExploreBC</a></td>
       <td>Next.JS, ChakraUI, localStorage</td>
-      <td>Educational web game to teach 7th graders about British Columbia's nature.</td>
+      <td>[8-hour Hackathon] Educational web game to teach 7th graders about British Columbia's nature.</td>
     </tr>
     <tr>
       <td><a href='https://github.com/julhoang/code_hack_patient_app'>👩‍⚕️ MedMate</a></td>
       <td>Next.JS, ChakraUI</td>
-      <td>A web app to support patient's easy access to their health data and records.</td>
+      <td>[24-hour Hackathon] A web app to support patient's easy access to their health data and records.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/julhoang/pantrypal'>🥕 PantryPal</a></td>
+      <td>Next.JS, ChakraUI, Prisma (PostgresDB), Cucumber w/ Selenium for Testing</td>
+      <td>[Course Project] A web app to track pantry items and help reduce food waste with recipe recommendations.</td>
     </tr>
   </tbody>
 </table>
