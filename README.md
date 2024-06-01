@@ -9,7 +9,9 @@
      align='right'>
 
 
-- 🎓 I'm a 3rd Year Computer Science student at <a href="https://www.uvic.ca">@UVIC</a>
+- 🎓  A soon-to-graduate Computer Science student at <a href="https://www.uvic.ca">@UVIC</a> (August 2024)
+- 👩‍💻 Tech Lead at <a href="https://www.artisway.ca">Artisway</a>
+- 💼 Part-time Web Developer Freelancer
 - 💻 I love developing full-stack web apps and iOS apps and occasionally joining hackathons 🏃‍♀️💨
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
@@ -20,32 +22,9 @@
 
 <!-- start work project section -->
 
-## Personal Projects 👇:
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href='https://github.com/julhoang/Notella'>🖊️ Notella</a></td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>A Chrome Extension for organising website highlights.</td>
-    </tr>
-    <tr>
-      <td><a href='https://julhoang.github.io/recap/'>✍️ Recap</a></td>
-      <td>React, JavaScript, Firebase, Bootstrap 5</td>
-      <td>React App to Store Personal Book Summaries</td>
-    </tr>
-  </tbody>
-</table>
-
 <br />
 
-## Team Projects 👇:
+## Notable Projects 👇:
 <table>
   <thead>
     <tr>
@@ -69,6 +48,31 @@
       <td><a href='https://github.com/julhoang/pantrypal'>🥕 PantryPal</a></td>
       <td>Next.JS, ChakraUI, Prisma (PostgresDB), Cucumber w/ Selenium for Testing</td>
       <td>[Course Project] A web app to track pantry items and help reduce food waste with recipe recommendations.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+## Personal Projects 👇:
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/julhoang/Notella'>🖊️ Notella</a></td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>A Chrome Extension for organising website highlights.</td>
+    </tr>
+    <tr>
+      <td><a href='https://julhoang.github.io/recap/'>✍️ Recap</a></td>
+      <td>React, JavaScript, Firebase, Bootstrap 5</td>
+      <td>React App to Store Personal Book Summaries</td>
     </tr>
   </tbody>
 </table>
