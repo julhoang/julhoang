@@ -9,8 +9,7 @@
      align='right'>
 
 
-- 🎓  A soon-to-graduate Computer Science student at <a href="https://www.uvic.ca">@UVIC</a> (August 2024)
-- 👩‍💻 Tech Lead at <a href="https://www.artisway.ca">Artisway</a>
+- 🎓 New Computer Science grad at <a href="https://www.uvic.ca">@UVIC</a> (August 2024)
 - 💼 Part-time Web Developer Freelancer
 - 💻 I love developing full-stack web apps and iOS apps and occasionally joining hackathons 🏃‍♀️💨
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
