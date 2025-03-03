@@ -8,9 +8,8 @@
      height="300"
      align='right'>
 
-
-- 🎓 New Computer Science grad at <a href="https://www.uvic.ca">@UVIC</a> (August 2024)
-- 💼 Part-time Web Developer Freelancer
+- Engineer @ Metalab
+- 🎓 Computer Science grad at <a href="https://www.uvic.ca">@UVIC</a> (August 2024)
 - 💻 I love developing full-stack web apps and iOS apps and occasionally joining hackathons 🏃‍♀️💨
 - 💬 Please message me via any social media accounts above, I am happy to chat, help and learn!
 
